@@ -62,9 +62,4 @@ Lung segmentation is performed in this file, using pre-trained weights of u net 
 - Segmenting original images
 ## How to run:
 - Run the cells in main file according to above mentioned pipeline
-## Collaborators:
-| Name | Year | Branch|
-| ------------- | ------------- | ------------- |
-| Harshita Kalani (B20CS019)  | Sophomore  | CSE |
-| Pranav Goswami (B20CS016) | Sophomore  | CSE |
 
