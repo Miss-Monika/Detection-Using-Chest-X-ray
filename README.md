@@ -1,7 +1,4 @@
 # Covid-19 Detection using Chest X-Ray
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TEC2gr6KILXHPzBMFObF3EFKH5zMRFH-?usp=sharing)
 ## Overview:
 COVID- 19 global pandemic affects health care and lifestyle worldwide,
 and its early detection is critical to control cases’ spreading and mortality.
